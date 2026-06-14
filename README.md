@@ -146,8 +146,8 @@ Enter a number and follow the prompts to enter the required details.
 
 ## 👩‍💻 Author
 
-**Alekhya Gontla**  
-[GitHub](https://github.com/alekhyaGontla)
+**Katari Jahnavi**  
+[GitHub](https://github.com/KatariJahnavi)
 
 ---
 
